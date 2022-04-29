@@ -1,3 +1,19 @@
+#### 1.8.1 (2022-04-29)
+
+##### Chores
+
+*  rename package name ([d01d3732](https://github.com/lob/generate-changelog/commit/d01d3732f242fd3f5799d380d4dae6c8471ce9fb))
+*  use pnpm ([e8950b7b](https://github.com/lob/generate-changelog/commit/e8950b7b6c93ccafd05f981d94b5e4ae9fdb358a))
+
+##### Documentation Changes
+
+*  update readme ([1e324695](https://github.com/lob/generate-changelog/commit/1e324695cffcfb7e33d4519e7d96b256d6240c88))
+
+##### Bug Fixes
+
+*  title has colon case ([95cf220e](https://github.com/lob/generate-changelog/commit/95cf220ec6111fe9691976944e3ee232554e6fdc))
+* **documentation:**  quick typo fix ([#57](https://github.com/lob/generate-changelog/pull/57)) ([7e9ffd66](https://github.com/lob/generate-changelog/commit/7e9ffd66f70503b812f65a36311842b6abbd93c3))
+
 ### 1.8.0 (2019-06-25)
 
 ##### Documentation Changes

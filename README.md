@@ -1,6 +1,7 @@
 # Generate Changelog
 
 > forked from https://github.com/lob/generate-changelog
+> 
 > fixed title has colon case
 
 [![NPM Version](https://badge.fury.io/js/generate-changelog.svg)](https://www.npmjs.com/package/generate-changelog)
